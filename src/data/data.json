@@ -1,8 +1,37 @@
 [
-    {
+  {
+    "mp": {
       "id": 1,
       "versionCode": 387,
       "versionName": "3.8.7",
-      "description": "Corrigido a exibição de empresas/filiais para o usuário logado \n Melhorias App Meu Protheus - Front-End"
+      "features": [
+        "Corrigido a exibição de empresas/filiais para o usuário logado",
+        "Melhorias App Meu Protheus - Front-End",
+        "Correção no compartilhamento de Eventos",
+        "Tratar retorno negativo da aprovação múltipla"
+      ]
+    },
+    "mpc": {
+      "id": 1,
+      "versionCode": 387,
+      "versionName": "3.8.7",
+      "features": [
+        "Corrigido a exibição de empresas/filiais para o usuário logado",
+        "Melhorias App Meu Protheus - Front-End",
+        "Correção no compartilhamento de Eventos",
+        "Tratar retorno negativo da aprovação múltipla"
+      ]
+    },
+    "mcd": {
+      "id": 1,
+      "versionCode": 387,
+      "versionName": "3.8.7",
+      "features": [
+        "Corrigido a exibição de empresas/filiais para o usuário logado",
+        "Melhorias App Meu Protheus - Front-End",
+        "Correção no compartilhamento de Eventos",
+        "Tratar retorno negativo da aprovação múltipla"
+      ]
     }
-  ]
+  }
+]

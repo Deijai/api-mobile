@@ -1,6 +1,9 @@
 export interface Item {
+  [key: string]: {
     id: number;
     versionCode: number;
     versionName: string;
-    description: string;
+    features?: Array<string>;
+    bugfixs?: Array<string>;
   }
+}
