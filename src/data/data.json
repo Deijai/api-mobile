@@ -2,36 +2,21 @@
   {
     "mp": {
       "id": 1,
-      "versionCode": 387,
-      "versionName": "3.8.7",
-      "features": [
-        "Corrigido a exibição de empresas/filiais para o usuário logado",
-        "Melhorias App Meu Protheus - Front-End",
-        "Correção no compartilhamento de Eventos",
-        "Tratar retorno negativo da aprovação múltipla"
-      ]
+      "versionCode": 388,
+      "versionName": "3.8.8",
+      "message": "Essa versão possue atualizações importantes, por favor consultar o relese notes nas lojas play store e app store"
     },
     "mpc": {
       "id": 1,
-      "versionCode": 387,
-      "versionName": "3.8.7",
-      "features": [
-        "Corrigido a exibição de empresas/filiais para o usuário logado",
-        "Melhorias App Meu Protheus - Front-End",
-        "Correção no compartilhamento de Eventos",
-        "Tratar retorno negativo da aprovação múltipla"
-      ]
+      "versionCode": 388,
+      "versionName": "3.8.8",
+       "message": "Essa versão possue atualizações importantes, por favor consultar o relese notes nas lojas play store e app store"
     },
     "mcd": {
       "id": 1,
-      "versionCode": 387,
-      "versionName": "3.8.7",
-      "features": [
-        "Corrigido a exibição de empresas/filiais para o usuário logado",
-        "Melhorias App Meu Protheus - Front-End",
-        "Correção no compartilhamento de Eventos",
-        "Tratar retorno negativo da aprovação múltipla"
-      ]
+      "versionCode": 388,
+      "versionName": "3.8.8",
+       "message": "Essa versão possue atualizações importantes, por favor consultar o relese notes nas lojas play store e app store"
     }
   }
 ]
